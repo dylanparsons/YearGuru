@@ -8,7 +8,7 @@ Astrological Sign based on the Date of Birth Entered.
 
 Nikolay Ivanov  - [@nick-ivanov](https://github.com/nick-ivanov) – Nikolay.Ivanov@smsu.edu
 
-Dylan A Parsons – [@dylanparsons](https://github.com/dylanparsons) – Dylan.Parsons@smsu.edu
+Dylan A Parsons – [@dylanparsons](https://github.com/dylanparsons) – parsons.d@icloud.com
 
 Anthony Angrimson  – Anthony.Angrimson@smsu.edu
 
